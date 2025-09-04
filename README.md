@@ -1,2 +1,2 @@
-# hello-woeld
+# hello-world
 practice
